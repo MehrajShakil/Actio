@@ -1,0 +1,11 @@
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\bin\Debug\net7.0\Actio.Common.deps.json
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\bin\Debug\net7.0\Actio.Common.dll
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\bin\Debug\net7.0\Actio.Common.pdb
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\Actio.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\Actio.Common.AssemblyInfoInputs.cache
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\Actio.Common.AssemblyInfo.cs
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\Actio.Common.csproj.CoreCompileInputs.cache
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\Actio.Common.dll
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\refint\Actio.Common.dll
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\Actio.Common.pdb
+C:\Practice\Distribute Systems\Activity Tracking\Actio\src\Actio.Common\obj\Debug\net7.0\ref\Actio.Common.dll

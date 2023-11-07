@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "http": {
+    "Actio.Services.Activities": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

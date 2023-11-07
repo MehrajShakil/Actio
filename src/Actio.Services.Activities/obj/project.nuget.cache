@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oEkO/fCwOcDkx4f5VyBFNFD002WrdodOZrbdylFIXOuWb53tY2aZhnhuCEWhh8zqCBIypvXK7coRfGrS8JN4VQ==",
+  "dgSpecHash": "N9p84Sam6rY+ONVR4NhHafAoPdybxxQNPz7/72XwWdSjxBoIyCfGbcy3eUfVa9hVrI8eupUz5e7FYcRlzezGWQ==",
   "success": true,
   "projectFilePath": "C:\\Practice\\Distribute Systems\\Activity Tracking\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mehraj.hossain\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0-preview.7.23375.9\\microsoft.aspnetcore.openapi.8.0.0-preview.7.23375.9.nupkg.sha512",
+    "C:\\Users\\mehraj.hossain\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\mehraj.hossain\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mehraj.hossain\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\mehraj.hossain\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
